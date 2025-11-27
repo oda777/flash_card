@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'Futebol',
     'Qual serie o athletico pertence',
-    'Serie B'
+    'Serie A'
 )
 
 criaCartao(
